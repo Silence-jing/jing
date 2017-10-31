@@ -6,4 +6,4 @@ push 55
 pull 66
 分支测试
 conflict text
-conflict test2
+:onflict test2
